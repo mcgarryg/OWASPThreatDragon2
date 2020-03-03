@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "T",
+    "owner": "T"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "T",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "T"
+  }
+}
